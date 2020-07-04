@@ -1,0 +1,13 @@
+C:\Users\toyvo\source\codeworks\summer2020\c#\console_library\bin\Debug\netcoreapp3.1\console_library.exe
+C:\Users\toyvo\source\codeworks\summer2020\c#\console_library\bin\Debug\netcoreapp3.1\console_library.deps.json
+C:\Users\toyvo\source\codeworks\summer2020\c#\console_library\bin\Debug\netcoreapp3.1\console_library.runtimeconfig.json
+C:\Users\toyvo\source\codeworks\summer2020\c#\console_library\bin\Debug\netcoreapp3.1\console_library.runtimeconfig.dev.json
+C:\Users\toyvo\source\codeworks\summer2020\c#\console_library\bin\Debug\netcoreapp3.1\console_library.dll
+C:\Users\toyvo\source\codeworks\summer2020\c#\console_library\bin\Debug\netcoreapp3.1\console_library.pdb
+C:\Users\toyvo\source\codeworks\summer2020\c#\console_library\obj\Debug\netcoreapp3.1\console_library.csprojAssemblyReference.cache
+C:\Users\toyvo\source\codeworks\summer2020\c#\console_library\obj\Debug\netcoreapp3.1\console_library.AssemblyInfoInputs.cache
+C:\Users\toyvo\source\codeworks\summer2020\c#\console_library\obj\Debug\netcoreapp3.1\console_library.AssemblyInfo.cs
+C:\Users\toyvo\source\codeworks\summer2020\c#\console_library\obj\Debug\netcoreapp3.1\console_library.csproj.CoreCompileInputs.cache
+C:\Users\toyvo\source\codeworks\summer2020\c#\console_library\obj\Debug\netcoreapp3.1\console_library.dll
+C:\Users\toyvo\source\codeworks\summer2020\c#\console_library\obj\Debug\netcoreapp3.1\console_library.pdb
+C:\Users\toyvo\source\codeworks\summer2020\c#\console_library\obj\Debug\netcoreapp3.1\console_library.genruntimeconfig.cache
